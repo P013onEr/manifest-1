@@ -78,7 +78,7 @@
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="pixel" />
 
   <!-- frameworks -->
-  <project path="frameworks/base" name="frameworks_base" remote="pixel" />
+  <project path="frameworks/base" name="P013onEr/frameworks_base" remote="github" revision="oreo-mr1"/>
   <project path="frameworks/native" name="P013onEr/frameworks_native" remote="github" revision="oreo-mr1"/>
   <project path="frameworks/av" name="P013onEr/frameworks_av" remote="github" revision="oreo-mr1"/>
   <project path="frameworks/support" name="frameworks_support" remote="pixel" />
